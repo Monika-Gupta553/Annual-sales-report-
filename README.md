@@ -3,7 +3,7 @@
 ##Table of Contents
 
 - [Project Overview](#Proect-Overview)
-- [Daata Souces](#Data-Sources)
+- [Data Sources](#Data-Sources)
 - [Result/Findings](#Result-Findings)
 - [Recommendations](#Recommendations)
 
